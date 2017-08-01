@@ -1,0 +1,4 @@
+#client_array = pd.Series([1,163,'audi','gas','turbo','four','sedan','fwd','front',91.0,170.0,62.0,2000,'dohc','six',100,'mpfi',3.0,3.2,9.30,100,5700,15,21])
+#client_array = pd.get_dummies(client_array)
+#print client_array
+#print reg.predict(client_array)

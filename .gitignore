@@ -1,0 +1,7 @@
+# Ignoring pyc files.
+*.pyc
+*.DS_Store
+*.numbers
+
+# Ignoring hidden folders.
+.ipynb_checkpoints/
